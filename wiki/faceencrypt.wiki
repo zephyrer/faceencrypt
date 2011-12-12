@@ -1,0 +1,6 @@
+#summary One-sentence summary of this page.
+#labels FaceEncrypt,人脸识别,文件夹加密,opencv,adaboost,pca
+
+= FaceEncrypt =
+
+	项目采用人脸识别技术和密码技术，来对用户文件夹进行基于人脸识别和密码双重身份认证的加解密，从而实现对文件夹信息的安全保护。
